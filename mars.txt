@@ -2,3 +2,5 @@ Mars is a red planet, with water. But frozen
 
 Mars is just inside the zone 
 Mars is bigger than Venus.
+
+And Pluto is not a planet
